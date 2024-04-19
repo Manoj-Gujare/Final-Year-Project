@@ -1,0 +1,4 @@
+train: Data/train/images
+val: Datatest/images/
+nc: 1
+names: ['Medicines']
