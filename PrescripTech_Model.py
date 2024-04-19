@@ -6,6 +6,7 @@ import pandas as pd
 import re
 import pytesseract
 from yaml.loader import SafeLoader
+pytesseract.pytesseract.tesseract_cmd = r'tesseract.exe'
 
 class YOLO_Pred():
     
