@@ -11,3 +11,4 @@ PyYAML==6.0.1
 reportlab==4.0.9
 streamlit==1.15.1
 streamlit==1.33.0
+pytest-cov==2.12.1
