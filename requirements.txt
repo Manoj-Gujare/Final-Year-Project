@@ -3,7 +3,6 @@ opencv_contrib_python==4.6.0.66
 opencv_python==4.5.5.62
 pandas==1.4.1
 Pillow==10.3.0
-pytesseract==0.3.10
 PyYAML==6.0.1
 reportlab==4.0.9
 streamlit==1.33.0
