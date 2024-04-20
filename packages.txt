@@ -1,10 +1,1 @@
-numpy
-opencv_contrib_python
-opencv-python
-pandas
-Pillow
-PyYAML
-reportlab
-streamlit
-pytesseract
-opencv-python-headless
+pip install libgl1-mesa-glx
