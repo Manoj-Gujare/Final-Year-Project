@@ -7,5 +7,3 @@ PyYAML==6.0.1
 reportlab==4.0.9
 streamlit==1.33.0
 pytesseract==0.3.10
-opencv-python-headless==4.5.4.58
-
